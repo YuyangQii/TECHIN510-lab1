@@ -2,11 +2,12 @@
 A personal website for TECHIN510 Lab 1
 
 ## How to run
+Open the terminal and run the following commands:
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
-
+pip install -r requirements.txt 
+```
 
 ## What's included
 - `app.py`: The main Streamlit application script
